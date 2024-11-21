@@ -1,15 +1,24 @@
+<!DOCTYPE html>
 <html>
-	<body>
-		<ol start="5">
-		  <li>Coffee</li>
-		  <li>Tea</li>
-		  <li>Milk</li>
-		</ol>
+    <body>
+        <ol type="1"
+        <li>website structure</li>
+        <ul type="square">
+            <li> Linear</li>
+            <li> Tree</li>
+            <li> web linked </li>
+            <li> Hybrid </li>
+            <li> webdesign</li>
 
-		<ol type="A" start="4">
-		  <li>Coffee</li>
-		  <li>Tea</li>
-		  <li>Milk</li>
-		</ol>
-	</body>
+
+        </ul>
+    </body>
+</html>
+<li> website type </li>
+<ol type="1">
+    <li>Static </li>
+    <li>Dynamic </li>  
+</ol>
+</ol>
+</body>
 </html>
